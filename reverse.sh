@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Recursive string reversal in bash
+
 function reverse() {
   s="$*"
 
